@@ -1,0 +1,18 @@
+[
+  {
+    "name": "5月給料",
+    "category": {
+      "Income": "Salary"
+    },
+    "price": 30000,
+    "date": "2023-02-11"
+  },
+  {
+    "name": "外食",
+    "category": {
+      "Expense": "Food"
+    },
+    "price": 1500,
+    "date": "2023-10-11"
+  }
+]
